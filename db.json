@@ -1,6 +1,4 @@
 {
-    "success": true,
-    "products": [
       {
         "productName": "Brinquedo Kong Duratreat Ring 1",
         "descriptionShort": "Many desktop publishing packages and web page editors now Many",
@@ -61,5 +59,4 @@
         "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-bola.png",
         "price": 100000
       }
-    ]
   }
