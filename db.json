@@ -4,70 +4,70 @@
             "id": 1,
             "productName": "Brinquedo Kong Duratreat Ring 1",
             "descriptionShort": "Many desktop publishing packages and web page editors now Many",
-            "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-kong.png",
+            "photo": "https://cdn.awsli.com.br/705/705487/produto/50166459/c8002fb301.jpg",
             "price": 15000
         },
         {
             "id": 2,
             "productName": "Bola de Tênis Chuckit 1",
             "descriptionShort": "Many desktop publishing packages and web page editors now Many",
-            "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-bola.png",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNm26HUct4FV_lKYj0ZazsSp2-CElfr8kMXsTl3hoBlYTbc6UP9RwBGwopjkT4GLJLJA&usqp=CAU",
             "price": 9000
         },
         {
             "id": 3,
             "productName": "Brinquedo Kong Duratreat Ring 2",
             "descriptionShort": "Many desktop publishing packages and web page editors now Many",
-            "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-kong.png",
+            "photo": "https://cdn.awsli.com.br/705/705487/produto/50166459/c8002fb301.jpg",
             "price": 14990
         },
         {
             "id": 4,
             "productName": "Bola de Tênis Chuckit 2",
             "descriptionShort": "Many desktop publishing packages and web page editors now Many",
-            "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-bola.png",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNm26HUct4FV_lKYj0ZazsSp2-CElfr8kMXsTl3hoBlYTbc6UP9RwBGwopjkT4GLJLJA&usqp=CAU",
             "price": 12000
         },
         {
             "id": 5,
             "productName": "Brinquedo Kong Duratreat Ring 3",
             "descriptionShort": "Many desktop publishing packages and web page editors now Many",
-            "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-kong.png",
+            "photo": "https://cdn.awsli.com.br/705/705487/produto/50166459/c8002fb301.jpg",
             "price": 4550
         },
         {
             "id": 6,
             "productName": "Bola de Tênis Chuckit 3",
             "descriptionShort": "Many desktop publishing packages and web page editors now Many",
-            "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-bola.png",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNm26HUct4FV_lKYj0ZazsSp2-CElfr8kMXsTl3hoBlYTbc6UP9RwBGwopjkT4GLJLJA&usqp=CAU",
             "price": 38000
         },
         {
             "id": 7,
             "productName": "Brinquedo Kong Duratreat Ring 4",
             "descriptionShort": "Many desktop publishing packages and web page editors now Many",
-            "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-kong.png",
+            "photo": "https://cdn.awsli.com.br/705/705487/produto/50166459/c8002fb301.jpg",
             "price": 42000
         },
         {
             "id": 8,
             "productName": "Bola de Tênis Chuckit 4",
             "descriptionShort": "Many desktop publishing packages and web page editors now Many",
-            "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-bola.png",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNm26HUct4FV_lKYj0ZazsSp2-CElfr8kMXsTl3hoBlYTbc6UP9RwBGwopjkT4GLJLJA&usqp=CAU",
             "price": 520
         },
         {
             "id": 9,
             "productName": "Brinquedo Kong Duratreat Ring 5",
             "descriptionShort": "Many desktop publishing packages and web page editors now Many",
-            "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-kong.png",
+            "photo": "https://cdn.awsli.com.br/705/705487/produto/50166459/c8002fb301.jpg",
             "price": 149990
         },
         {
             "id": 10,
             "productName": "Bola de Tênis Chuckit 5",
             "descriptionShort": "Many desktop publishing packages and web page editors now Many",
-            "photo": "https://econverse.com.br/teste-front-end/junior/ocaoselheiro/fotos-produtos/foto-brinquedo-bola.png",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNm26HUct4FV_lKYj0ZazsSp2-CElfr8kMXsTl3hoBlYTbc6UP9RwBGwopjkT4GLJLJA&usqp=CAU",
             "price": 100000
         }
     ]
