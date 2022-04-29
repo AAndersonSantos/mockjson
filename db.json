@@ -1,8 +1,10 @@
 {
-  "products": {
+  "products": [ 
+      {
         "productName": "Brinquedo Kong Duratreat Ring 1",
         "descriptionShort": "Many desktop publishing packages and web page editors now Many"
       }
+    }
 }
 
 
